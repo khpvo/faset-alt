@@ -1,2 +1,3 @@
 # faset-alt
-Alternative facet filter
+Alternative facet filter for Bitrix. 
+& not only Bitrix )))
